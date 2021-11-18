@@ -1,6 +1,7 @@
 {
     "domain": "sytadin",
     "name": "Sytadin",
+    "version": "0.100",
     "documentation": "https://github.com/custom-components/sytadin",
     "requirements": [
       "beautifulsoup4==4.8.0"
